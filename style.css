@@ -93,4 +93,23 @@ main .wrapper h2{
     color: purple;
     margin: 15px;
 }
+.curio-image{
+    display: flex;
+    justify-content: center;
+    padding-top: 50px;
+    width: 1075px;
+    margin: 0 auto;
+}
 
+.curio-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+    display: block;
+}
+.wrapper2{
+    width: 1075px;
+    margin: 0 auto;
+    padding-top: 50px;
+    text-align: center;
+}
