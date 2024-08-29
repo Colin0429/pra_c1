@@ -62,7 +62,7 @@ main .wrapper h2{
 #jaaroverzicht {
     width: 1075px;
     margin: 0 auto;
-    padding: 30px;
+    padding-top: 30px;
 
 }
 .box p {
@@ -112,4 +112,8 @@ main .wrapper h2{
     margin: 0 auto;
     padding-top: 50px;
     text-align: center;
+}
+#docenten-text{
+    width: 1075px;
+    margin: 0 auto;
 }
